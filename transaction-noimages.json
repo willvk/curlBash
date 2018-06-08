@@ -1,0 +1,46 @@
+{
+  "roadside_lane_id": "1",
+  "tpdr_list": [
+    {
+      "tpdr_id": "6501002637103",
+      "tpdr_raw_read_data": "F8C114507AC2120000000000",
+      "tpdr_raw_pre_write_data": "CEE85CEBE855F242E75F40010000000074183C59",
+      "tpdr_raw_post_write_data": "CF885CECF055F242E767800100000000AC0CC5F2",
+      "tpdr_account_status": "128",
+      "tpdr_account_version": "99999",
+      "tpdr_supplemental": {
+        "tpdr_type": "6",
+        "tpdr_total_reads": 8,
+        "tpdr_assign_reads": 6,
+        "tpdr_buffer_reads": 0,
+        "tpdr_read_bin": "H",
+        "tpdr_program_status": "S",
+        "tpdr_hov_switch_position": "T"
+      }
+    }
+  ],
+  "roadside_id": "PLACEHOLDER",
+  "roadside_timestamp": "2018-03-22T22:47:00.817Z",
+  "roadside_zone_id": "951010",
+  "image_list": [],
+  "vdc_list": [
+    {
+      "vdc_id": "F1",
+      "vdc_type": "FVDAC",
+      "vdc_class": 3,
+      "vdc_class_conf": 99,
+      "vdc_supplemental": {
+        "vdc_speed": 70
+      }
+    },
+    {
+      "vdc_id": "R1",
+      "vdc_type": "RVDAC",
+      "vdc_class": 3,
+      "vdc_class_conf": 99,
+      "vdc_supplemental": {
+        "vdc_speed": 72
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "trip_id": "PLACEHOLDER",
+  "trip_primary_tpdr": "6501012345678",
+  "trip_primary_tpdr_account_status": "VALID",
+  "trip_primary_tpdr_account_version": "99999",
+  "trip_secondary_tpdr_list": [
+    "6501011111111",
+    "6501022222222"
+  ],
+  "trip_plate_read": "ABC123",
+  "trip_plate_jurisdiction": "VA",
+  "trip_vehicle_classification": "TYPICAL",
+  "trip_occupancy": "HOV",
+  "trip_exceptions": [],
+  "trip_transactions": [
+    {
+      "txn_type": "VTI",
+      "txn_id": "ABCDEF1",
+      "txn_location": "tolling_zone_951010",
+      "txn_location_lane": "1",
+      "txn_timestamp": "2018-02-28T23:54:03.264Z"
+    },
+    {
+      "txn_type": "VTI",
+      "txn_id": "ABCDEF2",
+      "txn_location": "tolling_zone_951011",
+      "txn_location_lane": "1",
+      "txn_timestamp": "2018-02-28T23:58:03.264Z"
+    },
+    {
+      "txn_type": "VTI",
+      "txn_id": "ABCDEF3",
+      "txn_location": "tolling_zone_952310",
+      "txn_location_lane": "1",
+      "txn_timestamp": "2018-02-28T23:00:03.264Z"
+    }
+  ]
+}
